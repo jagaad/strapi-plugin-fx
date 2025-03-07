@@ -63,7 +63,7 @@
 		"displayName": "Foreign Exchange",
 		"description": "Determine foreign exchange rates for every currency"
 	},
-	"name": "strapi-plugin-fx",
+	"name": "@jagaad/strapi-plugin-fx",
 	"description": "Determine foreign exchange rates for every currency",
 	"license": "MIT",
 	"repository": {
